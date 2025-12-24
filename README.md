@@ -43,5 +43,6 @@ This application is designed with **clean architecture, modularity, and extensib
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ API request/response on swagger
+<img width="701" height="399" alt="image" src="https://github.com/user-attachments/assets/6f2bca08-89e7-4d49-a82b-6dd67da06670" />
 
